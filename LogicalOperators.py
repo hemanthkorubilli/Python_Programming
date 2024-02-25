@@ -1,0 +1,5 @@
+a=int(input("Enter value 1:"))
+b=int(input("Enter value 2:"))
+print(a>b)
+print((a==b) and (a>b))
+print((a<b) or (a==b))
